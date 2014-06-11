@@ -4,10 +4,10 @@
 ## Summary ##
 
 + Script Name: Actor Customization
----Written by: lTyl / Synthesize---
----Current Version: V6.0.1---
----Release Date: January 21, 2008---
----Demo: [4Shared Demo link](http://www.4shared.com/file/oR6gbh-V/Actor_Customization_V6.html)---
++ Written by: lTyl / Synthesize
++ Current Version: V6.0.1
++ V6 Release Date: January 21, 2008
++ Demo: [4Shared Demo link](http://www.4shared.com/file/oR6gbh-V/Actor_Customization_V6.html)
 
 # What is it? #
 
