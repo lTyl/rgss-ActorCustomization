@@ -3,7 +3,7 @@
 
 ## Summary ##
 
----Script Name: Actor Customization---
++Script Name: Actor Customization
 ---Written by: lTyl / Synthesize---
 ---Current Version: V6.0.1---
 ---Release Date: January 21, 2008---
